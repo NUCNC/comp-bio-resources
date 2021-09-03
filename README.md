@@ -107,6 +107,11 @@ Resources can be contributed by either editing this page directly on GitHub or b
 | ----- | --------| --------------| ------------ |
 | [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown - Grant Sanderson | YouTube series |  |
 
+# Theoretical Physics
+## Classical Electrodynamics
+| Title | Authors | Resource type |  Description |
+| ----- | --------| --------------| ------------ |
+| [Classical Electrodynamics](https://ocw.mit.edu/courses/physics/8-07-electromagnetism-ii-fall-2012/lecture-notes/) | MIT OCW | Lecture notes | Great for understanding diff eq |
 
 # Statistics
 | Title | Authors | Resource type |  Description |
