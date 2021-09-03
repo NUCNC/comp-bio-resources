@@ -6,7 +6,7 @@
 - [Computer Science](#computer-science)
 - [Machine Learning](#machine-learning)
 - [Mathematics](#mathematics)
-- [Theoretical Physics](#Theoretical Physics)
+- [Theoretical Physics](#theoretical-physics)
 - [Statistics](#statistics)
 - [Northwestern University Resources](#northwestern-university-resources)
 
