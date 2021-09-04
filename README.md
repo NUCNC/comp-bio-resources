@@ -1,4 +1,5 @@
 # Computational Biology Resources
+This is a collection of links to freely available resources related to computational biology.
 
 # Contents
 - [Bioinformatics](#bioinformatics)
