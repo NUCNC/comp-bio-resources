@@ -134,3 +134,4 @@ Resources can be contributed by either editing this page directly on GitHub or b
 | Title | Professor | Description |
 | ----- | --------| ------------ |
 | [Data Driven Methods for Dynamical Systems (ES_APPM 479)](https://www.mccormick.northwestern.edu/applied-math/academics/courses/descriptions/479.html) | Niall Mangan |  |
+|[Introduction to the Analysis of RNA Sequencing Data (ES_APPM 472)](https://www.mccormick.northwestern.edu/applied-math/academics/courses/descriptions/472.html)| Bill Kath|The course is an introduction to the theory and practice of analyzing high-throughput RNA sequencing data|
