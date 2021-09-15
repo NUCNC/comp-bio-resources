@@ -13,7 +13,7 @@ This is a collection of links to freely available resources related to computati
 
 
 # Contributing
-Resources can be contributed by either editing this page directly on GitHub or by forking this repo and submitting a pull request. To edit directly on GitHub, click on the filename, then click on the pencil icon in the upper right corner of the file, make your changes, and then click on the green commit changes button on the bottom of the page.
+Resources can be contributed by either editing this page directly on GitHub or by forking this repo and submitting a pull request. To edit directly on GitHub, click on the filename, then click on the pencil icon in the upper right corner of the file, make your changes, and then click on the green "Commit changes" button on the bottom of the page.
 
 # Bioinformatics
 | Title | Authors | Resource type |  Description |
