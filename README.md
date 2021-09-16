@@ -62,6 +62,7 @@ Resources can be contributed by either editing this page directly on GitHub or b
 | [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/) | Software Carpentry | Online Course |
 | [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/) | Software Carpentry | Online Course |
 | [Dataquest R Courses](https://www.dataquest.io/data-science-courses-directory/) | Dataquest | Online Course | Free quarterly access through [NUIT](https://www.it.northwestern.edu/research/campus-events/data-camp.html) |
+| [The R Book, 2nd edition](https://www.wiley.com/en-us/The+R+Book%2C+2nd+Edition-p-9781118448908)| Michael J. Crawley | Textbook | PDF is available via NU library |
 
 ## CS Misc.
 | Title | Authors | Resource type |  Description |
