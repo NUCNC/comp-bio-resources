@@ -70,6 +70,7 @@ Resources can be contributed by either editing this page directly on GitHub or b
 | [The Missing Semester of Your CS Education (MIT)](https://missing.csail.mit.edu/) | Anish Athalye, Jon Gjengset, and Jose Javier Gonzalez Ortiz | Course Materials | |
 | [Great Practical Ideas in CS (CMU 07-131)](https://www.cs.cmu.edu/~07131/f20/) | Adam Blank and Josh Zimmerman | Course Materials| |
 | [Project Lovelace](https://projectlovelace.net/) | | | Collection of scientific programming problems |
+|[The Good Research Code Handbook](https://goodresearch.dev/index.html)| Patrick Mineault | Online Handbook ||
 
 ### Shell scripting
 | Title | Authors | Resource type |  Description |
@@ -102,6 +103,7 @@ Resources can be contributed by either editing this page directly on GitHub or b
 | Title | Authors | Resource type |  Description |
 | ----- | --------| --------------| ------------ |
 | [Nathan Kutz's YouTube Channel](https://www.youtube.com/channel/UCoUOaSVYkTV6W4uLvxvgiFA) | Nathan Kutz | Recorded lectures |  |
+|[Data Driven Science and Engineering](http://databookuw.com/)| Steven Brunton and Nathan Kutz | Online Videos | This website has a bunch of great videos to explain topics from the book |
 | [Nonlinear Dynamics and Chaos](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V) | Steve Strogatz | Recorded lectures |  |
 | [Nonlinear Dynamics and Chaos](https://www.routledge.com/Nonlinear-Dynamics-and-Chaos-with-Student-Solutions-Manual-With-Applications/Strogatz/p/book/9780813350844) | Steve Strogatz | Textbook |  |
 
