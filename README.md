@@ -38,6 +38,7 @@ Resources can be contributed by either editing this page directly on GitHub or b
 | [Computational neuroscience resources](http://neural-reckoning.org/comp-neuro-resources.html) | Neural Reckoning | Online collection of resources| |
 | [Computational neuroscience resources](https://github.com/asoplata/open-computational-neuroscience-resources) | Austin Soplata | Online collection of resources| |
 | [Neural Data Science](https://github.com/berenslab/neural_data_science) | Philipp Berens | Course materials and recorded lectures | Summer 2021 |
+| [PNI Bootcamp Materials](https://github.com/PrincetonUniversity/pni_bootcamp_2020) | | Course Materials | Lecture materials and exercises for the Princeton Neuroscience Institute's 2020 Graduate Student Bootcamp. |
 
 
 # Computer Science
